@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "name": "amy",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836209365442756618/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 2,
+        "name": "charmy",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836209611555340298/image0.png",
+        "possession": 1,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 3,
+        "name": "classic-sonic",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836209883451621396/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 4,
+        "name": "knukles",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836210291343491120/image0.jpg",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 5,
+        "name": "omega",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836210536260567070/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 6,
+        "name": "amy",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836210909877633024/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 7,
+        "name": "sonic",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836211145597255711/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 8,
+        "name": "tails",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836211717586550804/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 9,
+        "name": "blaze",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836212060982870036/image0.png",
+        "possession": 1,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 10,
+        "name": "cream",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836212222614306827/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 11,
+        "name": "espio",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836212418446753792/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 12,
+        "name": "jet",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836212600982863960/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 13,
+        "name": "rouge",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836211717586550804/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 14,
+        "name": "storm",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836223103590858752/image0.jpg",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 15,
+        "name": "tangle",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836224099528474664/image0.jpg",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 16,
+        "name": "vector",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836226224618733589/image0.jpg",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 17,
+        "name": "wave",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836226443964710962/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 18,
+        "name": "whisper",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836226890078879764/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 19,
+        "name": "big",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836227328840433744/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 20,
+        "name": "chaos",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836228114421252106/image0.jpg",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 21,
+        "name": "metal sonic",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836228350648254464/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 22,
+        "name": "shadows",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836228553066414100/image0.png",
+        "possession": 1,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 23,
+        "name": "tikal",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836235907765501972/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 24,
+        "name": "zavok",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836237290019487785/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 25,
+        "name": "zazz",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836237549399703582/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 26,
+        "name": "zeena",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836237934788345917/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 27,
+        "name": "excalibur sonic",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836238286900428861/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 28,
+        "name": "knukles chasseur de tresor",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836238655797854298/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 29,
+        "name": "longclaw",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836238960736469033/image0.png",
+        "possession": 0,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    },
+    {
+        "id": 30,
+        "name": "silver lanterne",
+        "imageURL": "https://cdn.discordapp.com/attachments/831143065552289792/836240143055847464/image0.jpg",
+        "possession": 1,
+        "description": "",
+        "totalCashWin": 0,
+        "bet": 100,
+        "stats": {
+            "maxAttaque": 20,
+            "maxDefence": 20,
+            "maxEndurance": 20
+        }
+    }
+]

@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "after-load": "^1.0.4",
+    "cheerio": "*",
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "^0.0.4",
+    "moment": "^2.29.1",
+    "ms": "^2.0.0",
+    "node-superfetch": "^0.2.3",
+    "opusscript": "^0.0.8",
+    "rss-converter": "^1.1.6",
+    "youtubesubs-count-v1": "^1.0.9",
+    "yt-subscription-count-scraper": "^1.0.6",
+    "ytdl-core": "^4.8.0"
+  },
+  "name": "soniceursbot",
+  "version": "1.0.0",
+  "description": "Bot discord for Speed Garden's server",
+  "main": "SoniceursBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "speedmoonday & soniceurs",
+  "license": "ISC"
+}

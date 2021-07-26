@@ -1,0 +1,1632 @@
+{
+    "835523655718535228": {
+        "id": "835523655718535228",
+        "description": null,
+        "name": "♾・🇬🇧・history-infinity",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:42",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 30,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 2048
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 0,
+                "allow": 66073088
+            },
+            {
+                "id": "835523613154213898",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 20,
+            "parentPosition": 14
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523640572903495": {
+        "id": "835523640572903495",
+        "description": null,
+        "name": "🎧・son",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:39",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 60,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 0,
+                "allow": 8192
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 0,
+                "allow": 8192
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 10,
+            "parentPosition": 4
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523651976822804": {
+        "id": "835523651976822804",
+        "description": null,
+        "name": "♾・release➕",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:41",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523577503678475",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523579365687366",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 2048,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 16,
+            "parentPosition": 10
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523637774647327": {
+        "id": "835523637774647327",
+        "description": null,
+        "name": "🎨・art",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:38",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 9,
+            "parentPosition": 3
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523633819680809": {
+        "id": "835523633819680809",
+        "description": null,
+        "name": "🇬🇧・discussion",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:37",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 0,
+                "allow": 8192
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 0,
+                "allow": 8192
+            },
+            {
+                "id": "835523613154213898",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 7,
+            "parentPosition": 1
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523666371412019": {
+        "id": "835523666371412019",
+        "description": null,
+        "name": "💬・chat-staff-lead",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:45",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            }
+        ],
+        "position": {
+            "guildPosition": 30,
+            "parentPosition": 1
+        },
+        "parent": {
+            "name": "⛔  MODERATION",
+            "id": "835523621711118337",
+            "position": 6
+        }
+    },
+    "835523654468108310": {
+        "id": "835523654468108310",
+        "description": null,
+        "name": "♾・🇲🇫・history-infinity",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:42",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 30,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 2048
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 0,
+                "allow": 66073088
+            },
+            {
+                "id": "835523612441575444",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 19,
+            "parentPosition": 13
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523624706113546": {
+        "id": "835523624706113546",
+        "description": null,
+        "name": "📚・spawn",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:35",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 2048,
+                "allow": 0
+            }
+        ],
+        "position": {
+            "guildPosition": 1,
+            "parentPosition": 2
+        },
+        "parent": {
+            "name": "🗣  Salons généraux",
+            "id": "835523617302642758",
+            "position": 0
+        }
+    },
+    "830475864939429970": {
+        "id": "830475864939429970",
+        "description": null,
+        "name": "moderator-only",
+        "guild": "799175308644712449",
+        "createdAt": "10/04/21 | 06:14:35",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            }
+        ],
+        "position": {
+            "guildPosition": 0,
+            "parentPosition": 0
+        },
+        "parent": null
+    },
+    "835523661141770320": {
+        "id": "835523661141770320",
+        "description": null,
+        "name": "💾・media",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:44",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 3072
+            },
+            {
+                "id": "835523596180127766",
+                "type": "role",
+                "deny": 2048,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 25,
+            "parentPosition": 4
+        },
+        "parent": {
+            "name": "⏫  level",
+            "id": "835523618716254228",
+            "position": 2
+        }
+    },
+    "835523676748775444": {
+        "id": "835523676748775444",
+        "description": null,
+        "name": "🤖・test-bot",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:47",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523570406129715",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 37,
+            "parentPosition": 8
+        },
+        "parent": {
+            "name": "⛔  MODERATION",
+            "id": "835523621711118337",
+            "position": 6
+        }
+    },
+    "835523629877952512": {
+        "id": "835523629877952512",
+        "description": null,
+        "name": "🎟・admin-speed-garden",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:36",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 3072,
+                "allow": 65536
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 805763153,
+                "allow": 66560
+            }
+        ],
+        "position": {
+            "guildPosition": 5,
+            "parentPosition": 7
+        },
+        "parent": {
+            "name": "🗣  Salons généraux",
+            "id": "835523617302642758",
+            "position": 0
+        }
+    },
+    "835523626765254676": {
+        "id": "835523626765254676",
+        "description": null,
+        "name": "❓・role",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:35",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 3072,
+                "allow": 0
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 0
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 8192,
+                "allow": 0
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 8192,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 3,
+            "parentPosition": 5
+        },
+        "parent": {
+            "name": "🗣  Salons généraux",
+            "id": "835523617302642758",
+            "position": 0
+        }
+    },
+    "835523658922590248": {
+        "id": "835523658922590248",
+        "description": null,
+        "name": "🎑・png",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:43",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523596914917397",
+                "type": "role",
+                "deny": 1,
+                "allow": 1024
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 1024,
+                "allow": 2048
+            }
+        ],
+        "position": {
+            "guildPosition": 23,
+            "parentPosition": 2
+        },
+        "parent": {
+            "name": "⏫  level",
+            "id": "835523618716254228",
+            "position": 2
+        }
+    },
+    "835523644000043008": {
+        "id": "835523644000043008",
+        "description": null,
+        "name": "📲・pub",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:40",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 21600,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 12,
+            "parentPosition": 6
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523665041948683": {
+        "id": "835523665041948683",
+        "description": null,
+        "name": "🗂・info-discord",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:45",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 3072,
+                "allow": 65536
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523576928141342",
+                "type": "role",
+                "deny": 0,
+                "allow": 68608
+            },
+            {
+                "id": "835523577503678475",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 29,
+            "parentPosition": 0
+        },
+        "parent": {
+            "name": "⛔  MODERATION",
+            "id": "835523621711118337",
+            "position": 6
+        }
+    },
+    "835523646033494036": {
+        "id": "835523646033494036",
+        "description": null,
+        "name": "🔗・lien",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:40",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 13,
+            "parentPosition": 7
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523664014213160": {
+        "id": "835523664014213160",
+        "description": null,
+        "name": "🎫・ticket",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:44",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 8192,
+                "allow": 0
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 8192,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 2048,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 28,
+            "parentPosition": 0
+        },
+        "parent": {
+            "name": "🎫  tickets",
+            "id": "835523620842504193",
+            "position": 5
+        }
+    },
+    "835523647409750068": {
+        "id": "835523647409750068",
+        "description": null,
+        "name": "🎮・sonic-release",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:40",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523577503678475",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523579365687366",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 2048,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 14,
+            "parentPosition": 8
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523656226308097": {
+        "id": "835523656226308097",
+        "description": null,
+        "name": "📰・info-up",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:42",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 133121,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 21,
+            "parentPosition": 0
+        },
+        "parent": {
+            "name": "⏫  level",
+            "id": "835523618716254228",
+            "position": 2
+        }
+    },
+    "835523669786755093": {
+        "id": "835523669786755093",
+        "description": null,
+        "name": "🔒・yt-animation-hgm",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:46",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 0
+            },
+            {
+                "id": "835523576928141342",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 33,
+            "parentPosition": 4
+        },
+        "parent": {
+            "name": "⛔  MODERATION",
+            "id": "835523621711118337",
+            "position": 6
+        }
+    },
+    "835523641482805259": {
+        "id": "835523641482805259",
+        "description": null,
+        "name": "🎬・vidéo",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:39",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 3600,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 11,
+            "parentPosition": 5
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523675691548682": {
+        "id": "835523675691548682",
+        "description": null,
+        "name": "🔄・logs",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:47",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 2048,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 36,
+            "parentPosition": 7
+        },
+        "parent": {
+            "name": "⛔  MODERATION",
+            "id": "835523621711118337",
+            "position": 6
+        }
+    },
+    "835523652959076362": {
+        "id": "835523652959076362",
+        "description": null,
+        "name": "🔢・1⃣2⃣3⃣•••",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:42",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 2048
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 17,
+            "parentPosition": 11
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "830475864939429969": {
+        "id": "830475864939429969",
+        "description": null,
+        "name": "rules",
+        "guild": "799175308644712449",
+        "createdAt": "10/04/21 | 06:14:35",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 0,
+                "allow": 3072
+            }
+        ],
+        "position": {
+            "guildPosition": 0,
+            "parentPosition": 1
+        },
+        "parent": null
+    },
+    "835523673657049138": {
+        "id": "835523673657049138",
+        "description": null,
+        "name": "🖥・développeurs",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:47",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 3072,
+                "allow": 65536
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523577503678475",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 34,
+            "parentPosition": 5
+        },
+        "parent": {
+            "name": "⛔  MODERATION",
+            "id": "835523621711118337",
+            "position": 6
+        }
+    },
+    "835523668015579196": {
+        "id": "835523668015579196",
+        "description": null,
+        "name": "💬・chat-staff",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:45",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 3072,
+                "allow": 65536
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523576928141342",
+                "type": "role",
+                "deny": 0,
+                "allow": 68608
+            },
+            {
+                "id": "835523577503678475",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 31,
+            "parentPosition": 2
+        },
+        "parent": {
+            "name": "⛔  MODERATION",
+            "id": "835523621711118337",
+            "position": 6
+        }
+    },
+    "835523632579084309": {
+        "id": "835523632579084309",
+        "description": null,
+        "name": "🇲🇫・discussion",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:37",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 0,
+                "allow": 8192
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 0,
+                "allow": 66073088
+            },
+            {
+                "id": "835523612441575444",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 6,
+            "parentPosition": 0
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523657517760573": {
+        "id": "835523657517760573",
+        "description": null,
+        "name": "📈・up",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:43",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 11264,
+                "allow": 65536
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 8192,
+                "allow": 0
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 8192,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 22,
+            "parentPosition": 1
+        },
+        "parent": {
+            "name": "⏫  level",
+            "id": "835523618716254228",
+            "position": 2
+        }
+    },
+    "835523625884450816": {
+        "id": "835523625884450816",
+        "description": null,
+        "name": "📜・règlement",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:35",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 805763153,
+                "allow": 66560
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 2,
+            "parentPosition": 4
+        },
+        "parent": {
+            "name": "🗣  Salons généraux",
+            "id": "835523617302642758",
+            "position": 0
+        }
+    },
+    "835523674655817798": {
+        "id": "835523674655817798",
+        "description": null,
+        "name": "💽・tool",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:47",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523577503678475",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523578614120458",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523579365687366",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 35,
+            "parentPosition": 6
+        },
+        "parent": {
+            "name": "⛔  MODERATION",
+            "id": "835523621711118337",
+            "position": 6
+        }
+    },
+    "835523649250525255": {
+        "id": "835523649250525255",
+        "description": null,
+        "name": "🎮・mario64-release",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:41",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523574625337384",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523575188422668",
+                "type": "role",
+                "deny": 0,
+                "allow": 66073088
+            },
+            {
+                "id": "835523577503678475",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523579365687366",
+                "type": "role",
+                "deny": 0,
+                "allow": 2048
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 805500945,
+                "allow": 263232
+            }
+        ],
+        "position": {
+            "guildPosition": 15,
+            "parentPosition": 9
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523659724357663": {
+        "id": "835523659724357663",
+        "description": null,
+        "name": "⬆・texte",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:43",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523571496386600",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            },
+            {
+                "id": "835523595605377054",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 24,
+            "parentPosition": 3
+        },
+        "parent": {
+            "name": "⏫  level",
+            "id": "835523618716254228",
+            "position": 2
+        }
+    },
+    "835523628735922186": {
+        "id": "835523628735922186",
+        "description": null,
+        "name": "📥・part-invite",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:36",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 21600,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523569781571584",
+                "type": "role",
+                "deny": 0,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 4,
+            "parentPosition": 6
+        },
+        "parent": {
+            "name": "🗣  Salons généraux",
+            "id": "835523617302642758",
+            "position": 0
+        }
+    },
+    "835523668968603660": {
+        "id": "835523668968603660",
+        "description": null,
+        "name": "🔒・yt-speed-garden",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:45",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523576127160330",
+                "type": "role",
+                "deny": 0,
+                "allow": 70656
+            }
+        ],
+        "position": {
+            "guildPosition": 32,
+            "parentPosition": 3
+        },
+        "parent": {
+            "name": "⛔  MODERATION",
+            "id": "835523621711118337",
+            "position": 6
+        }
+    },
+    "835523663108898866": {
+        "id": "835523663108898866",
+        "description": null,
+        "name": "🔇・no-micro",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:44",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 0
+            },
+            {
+                "id": "835523612441575444",
+                "type": "role",
+                "deny": 0,
+                "allow": 3072
+            }
+        ],
+        "position": {
+            "guildPosition": 27,
+            "parentPosition": 0
+        },
+        "parent": {
+            "name": "🔈  Vocaux",
+            "id": "835523619605184512",
+            "position": 3
+        }
+    },
+    "835523653885362186": {
+        "id": "835523653885362186",
+        "description": null,
+        "name": "💣・spam",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:42",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 18,
+            "parentPosition": 12
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "835523662111178773": {
+        "id": "835523662111178773",
+        "description": null,
+        "name": "⭐・golden",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:44",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523593881780264",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 26,
+            "parentPosition": 5
+        },
+        "parent": {
+            "name": "⏫  level",
+            "id": "835523618716254228",
+            "position": 2
+        }
+    },
+    "835523635720355912": {
+        "id": "835523635720355912",
+        "description": null,
+        "name": "🖼・média",
+        "guild": "799175308644712449",
+        "createdAt": "24/04/21 | 04:32:38",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523597824425994",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 8,
+            "parentPosition": 2
+        },
+        "parent": {
+            "name": "👥  Salons textuels",
+            "id": "835523618015281232",
+            "position": 1
+        }
+    },
+    "865337902387822592": {
+        "id": "865337902387822592",
+        "description": null,
+        "name": "nom-de-channel-non-spécifié",
+        "guild": "799175308644712449",
+        "createdAt": "15/07/21 | 11:03:53",
+        "nsfw": false,
+        "type": "text",
+        "rateLimit": 0,
+        "permission": [
+            {
+                "id": "799175308644712449",
+                "type": "role",
+                "deny": 1024,
+                "allow": 0
+            },
+            {
+                "id": "835523593881780264",
+                "type": "role",
+                "deny": 0,
+                "allow": 1024
+            }
+        ],
+        "position": {
+            "guildPosition": 38,
+            "parentPosition": 6
+        },
+        "parent": {
+            "name": "⏫  level",
+            "id": "835523618716254228",
+            "position": 2
+        }
+    }
+}

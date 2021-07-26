@@ -1,0 +1,8 @@
+{
+	"token" : "ODI2MTk1OTk0NDYyMzg4MjU2.YGI8-w.GF2GG0FuzAXQBQATciPbkC9SdWw",
+	"prefix":".",
+	"youtubeKey":"AIzaSyD_urB-VwkYMavfWGiNJ-3GMDAaY3lZbrU",
+    "channel_id":"835523631873785897",
+    "channel_yt":"UCcLUeE6Ocl1ByWaBl2EN2tA",
+    "badWords": [["aaa", false], ["bbb", true], "ccc"]
+}

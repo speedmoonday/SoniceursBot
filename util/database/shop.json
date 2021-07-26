@@ -1,0 +1,294 @@
+{
+    "data": {
+        "lastShop": 1627250400000,
+        "nextShop": 1627855200000,
+        "size": 3,
+        "price": [
+            "first",
+            "secound",
+            "third",
+            "fourth",
+            "fifth"
+        ],
+        "items": [
+            "speed ring",
+            "damage ring",
+            "heal ring",
+            "boost ring",
+            "frost potion",
+            "nurse potion",
+            "sleep potion",
+            "confusion potion",
+            "lucky boost",
+            "money boost",
+            "heal boost",
+            "heavy boost",
+            "green fragment",
+            "blue fragment",
+            "red fragment",
+            "brown fragment",
+            "white fragment",
+            "black fragment",
+            "gold fragment",
+            "silver fragment",
+            "purple fragment",
+            "orange fragment",
+            "cyan fragment",
+            "lime fragment",
+            "pink fragment",
+            "yellow fragment",
+            "grey fragment",
+            "navy fragment"
+        ],
+        "todayShop": {
+            "silver fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "boost ring": {
+                "duration": 0,
+                "price": 5000
+            },
+            "purple fragment": {
+                "duration": 0,
+                "price": 20000
+            }
+        }
+    },
+    "body": {
+        "items": {
+            "speed ring": {
+                "duration": 0,
+                "price": 5000
+            },
+            "damage ring": {
+                "duration": 0,
+                "price": 5000
+            },
+            "defence ring": {
+                "duration": 0,
+                "price": 5000
+            },
+            "boost ring": {
+                "duration": 0,
+                "price": 5000
+            },
+            "frost potion": {
+                "duration": 0,
+                "price": 2000
+            },
+            "nurse potion": {
+                "duration": 0,
+                "price": 2000
+            },
+            "sleep potion": {
+                "duration": 0,
+                "price": 2000
+            },
+            "confusion potion": {
+                "duration": 0,
+                "price": 2000
+            },
+            "lucky boost": {
+                "duration": [
+                    {
+                        "first": {
+                            "price": 1000,
+                            "time": 3600000
+                        }
+                    },
+                    {
+                        "secound": {
+                            "price": 2000,
+                            "time": 10800000
+                        }
+                    },
+                    {
+                        "third": {
+                            "price": 5000,
+                            "time": 43200000
+                        }
+                    },
+                    {
+                        "fourth": {
+                            "price": 10000,
+                            "time": 86400000
+                        }
+                    },
+                    {
+                        "fifth": {
+                            "price": 20000,
+                            "time": 604800000
+                        }
+                    }
+                ]
+            },
+            "money boost": {
+                "duration": [
+                    {
+                        "first": {
+                            "price": 1000,
+                            "time": 3600000
+                        }
+                    },
+                    {
+                        "secound": {
+                            "price": 2000,
+                            "time": 10800000
+                        }
+                    },
+                    {
+                        "third": {
+                            "price": 5000,
+                            "time": 43200000
+                        }
+                    },
+                    {
+                        "fourth": {
+                            "price": 10000,
+                            "time": 86400000
+                        }
+                    },
+                    {
+                        "fifth": {
+                            "price": 20000,
+                            "time": 604800000
+                        }
+                    }
+                ]
+            },
+            "heal boost": {
+                "duration": [
+                    {
+                        "first": {
+                            "price": 1000,
+                            "time": 3600000
+                        }
+                    },
+                    {
+                        "secound": {
+                            "price": 2000,
+                            "time": 10800000
+                        }
+                    },
+                    {
+                        "third": {
+                            "price": 5000,
+                            "time": 43200000
+                        }
+                    },
+                    {
+                        "fourth": {
+                            "price": 10000,
+                            "time": 86400000
+                        }
+                    },
+                    {
+                        "fifth": {
+                            "price": 20000,
+                            "time": 604800000
+                        }
+                    }
+                ]
+            },
+            "heavy boost": {
+                "duration": [
+                    {
+                        "first": {
+                            "price": 1000,
+                            "time": 3600000
+                        }
+                    },
+                    {
+                        "secound": {
+                            "price": 2000,
+                            "time": 10800000
+                        }
+                    },
+                    {
+                        "third": {
+                            "price": 5000,
+                            "time": 43200000
+                        }
+                    },
+                    {
+                        "fourth": {
+                            "price": 10000,
+                            "time": 86400000
+                        }
+                    },
+                    {
+                        "fifth": {
+                            "price": 20000,
+                            "time": 604800000
+                        }
+                    }
+                ]
+            },
+            "green fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "blue fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "red fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "cyan fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "orange fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "purple fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "grey fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "black fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "white fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "lime fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "navy fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "gold fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "brown fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "yellow fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "pink fragment": {
+                "duration": 0,
+                "price": 20000
+            },
+            "silver fragment": {
+                "duration": 0,
+                "price": 20000
+            }
+        }
+    }
+}

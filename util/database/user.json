@@ -1,0 +1,261 @@
+{
+    "709849788094349363": {
+        "level": {
+            "xp": 26,
+            "level": 5,
+            "msg": 99,
+            "totalxp": 99
+        },
+        "economy": {
+            "money": 999955000
+        },
+        "userinfo": {
+            "id": "709849788094349363",
+            "username": "รקєє๔๓๏๏ภ๔คץ",
+            "discriminator": "9999",
+            "bot": false,
+            "roles": [
+                "🐰",
+                "🐝",
+                "ping speed garden",
+                "🦋",
+                "bot",
+                "Amy",
+                "UO",
+                "Modder Game",
+                "🇫🇷",
+                "Rouge",
+                "Media",
+                "🐵",
+                "Shadow",
+                "Sonic",
+                "Tails",
+                "Art",
+                "Vector",
+                "🐈‍⬛",
+                "YT Speed Garden",
+                "messager",
+                "Speedrunner",
+                "Modo Test",
+                "🐍",
+                "Big",
+                "Muted",
+                "ping sonic remixteur",
+                "Knukles",
+                "Dev",
+                "YT Animation HGM",
+                "eggman",
+                "Staff Leader",
+                "Tech",
+                "ping soniceurs",
+                "OWNER",
+                "png",
+                "Charmy",
+                "CO-OWNER",
+                "Modo Simple",
+                "new role",
+                "🐭",
+                "🐢",
+                "XP en follie",
+                "Mario",
+                "🦚",
+                "🇬🇧",
+                "Creator YouTube",
+                "Offical Membre",
+                "supporter",
+                "annonce",
+                "V.I.P.",
+                "new role",
+                "ping sonic mondial",
+                "actif",
+                "🐲",
+                "Cream",
+                "🐞",
+                "@everyone"
+            ],
+            "joinedServerAt": "14/01/21 | 08:17:21",
+            "joinedDiscordAt": "12/05/20 | 09:29:37",
+            "VIP": false,
+            "Super_VIP": false,
+            "whitelisted": true,
+            "serverOwner": true,
+            "botOwner": true
+        },
+        "moderation": {
+            "warn": 0,
+            "mute": 0,
+            "kick": 0,
+            "ban": 0,
+            "messageDeleted": 0,
+            "sanctions": 0,
+            "isModerator": true,
+            "isAdministrator": true
+        },
+        "sonistat": {
+            "equipedSonimon": "shadows",
+            "equipedObject": false,
+            "healboost": 1,
+            "speedboost": 1.2,
+            "damageboost": 1.2,
+            "boostboost": 1.2,
+            "battleCount": 0,
+            "wins": 0,
+            "defeat": 0,
+            "sonimonLenght": 0,
+            "sonimon": {
+                "shadows": {
+                    "totalCashWin": 0,
+                    "hp": 1000000000,
+                    "damage": 1000000000,
+                    "speed": 1000000000,
+                    "stat": {
+                        "endurance": 13,
+                        "defence": 13,
+                        "attaque": 2
+                    }
+                }
+            },
+            "objectLenght": 0,
+            "object": {
+                "speed ring": {
+                    "time": 0
+                },
+                "boost ring": {
+                    "time": 0
+                },
+                "damage ring": {
+                    "time": 0
+                },
+                "grey fragment": {
+                    "time": 0
+                },
+                "orange fragment": {
+                    "time": 0
+                }
+            },
+            "aliases": [],
+            "team": null
+        }
+    },
+    "668550879632293910": {
+        "level": {
+            "xp": 2,
+            "level": 2,
+            "msg": 13,
+            "totalxp": 13
+        },
+        "economy": {
+            "money": 997
+        },
+        "userinfo": {
+            "id": "668550879632293910",
+            "username": "𝓢𝖔𝖓𝖎𝖈𝖊𝖚𝖗𝖘™",
+            "discriminator": "9999",
+            "bot": false,
+            "roles": [
+                "Amy",
+                "Rouge",
+                "Shadow",
+                "Sonic",
+                "Tails",
+                "Vector",
+                "Big",
+                "Knukles",
+                "eggman",
+                "Staff Leader",
+                "OWNER",
+                "png",
+                "Charmy",
+                "Mario",
+                "Cream",
+                "@everyone"
+            ],
+            "joinedServerAt": "28/04/21 | 08:37:39",
+            "joinedDiscordAt": "19/01/20 | 09:22:30",
+            "VIP": false,
+            "Super_VIP": false,
+            "whitelisted": false,
+            "serverOwner": false,
+            "botOwner": true
+        },
+        "moderation": {
+            "warn": 0,
+            "mute": 0,
+            "kick": 0,
+            "ban": 0,
+            "messageDeleted": 0,
+            "sanctions": 0,
+            "isModerator": true,
+            "isAdministrator": true
+        },
+        "sonistat": {
+            "equipedSonimon": false,
+            "equipedObject": false,
+            "healboost": 1,
+            "speedboost": 1,
+            "damageboost": 1,
+            "boostboost": 1,
+            "battleCount": 0,
+            "wins": 0,
+            "defeat": 0,
+            "sonimonLenght": 0,
+            "sonimon": {},
+            "objectLenght": 0,
+            "object": {},
+            "aliases": [],
+            "team": null
+        }
+    },
+    "790708430586380338": {
+        "level": {
+            "xp": 0,
+            "level": 0,
+            "msg": 0,
+            "totalxp": 0
+        },
+        "economy": {
+            "money": 1000
+        },
+        "userinfo": {
+            "id": "790708430586380338",
+            "username": "alolodestructeur",
+            "discriminator": "9999",
+            "bot": false,
+            "roles": [],
+            "joinedServerAt": "03/06/21 | 10:04:54",
+            "joinedDiscordAt": "21/12/20 | 11:33:00",
+            "VIP": false,
+            "Super_VIP": false,
+            "whitelisted": true,
+            "serverOwner": false,
+            "botOwner": false
+        },
+        "moderation": {
+            "warn": 0,
+            "mute": 0,
+            "kick": 0,
+            "ban": 0,
+            "messageDeleted": 0,
+            "sanctions": 0,
+            "isModerator": true,
+            "isAdministrator": true
+        },
+        "sonistat": {
+            "equipedSonimon": false,
+            "equipedObject": false,
+            "healboost": 1,
+            "speedboost": 1,
+            "damageboost": 1,
+            "boostboost": 1,
+            "battleCount": 0,
+            "wins": 0,
+            "defeat": 0,
+            "sonimonLenght": 0,
+            "sonimon": {},
+            "objectLenght": 0,
+            "object": {},
+            "aliases": [],
+            "team": null
+        }
+    }
+}
